@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Ethan Hwang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an Senior Developer."
+  bio              : "I am a Senior Developer."
   location         : "Seoul, Korea"
   email            :
   links:
