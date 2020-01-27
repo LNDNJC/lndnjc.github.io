@@ -1,12 +1,12 @@
 # Google Play Store에 올리기
 
-![ex_screenshot](./img/setting_unity.png)
+![ex_screenshot](/img/setting_unity.png)
 
 ### 구글스토어로 올릴 때 .apk 빌드하면 구글스토어에 올릴 때 64bit 오류가 났다.
 
 ### x86 옵션은 UnCheck!!!
 
-![ex_screenshot1](./img/setting_unity1.png)
+![ex_screenshot1](/img/setting_unity1.png)
 
  
 
