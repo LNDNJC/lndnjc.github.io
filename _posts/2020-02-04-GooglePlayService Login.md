@@ -12,8 +12,6 @@ last_modified_at: 2020-02-04T08:06:00-05:00
 ---
 
 
-# GooglePlayService Login
-
 ## KeyTool 시스템 환경 설정
 
 - 윈도우키 + R를 누른 후, sysdm.cpl을 입력하여 제어판의 시스템 속성을 실행
