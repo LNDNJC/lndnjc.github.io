@@ -1,3 +1,17 @@
+---
+title:  "GooglePlayService Login"
+excerpt: "Unity"
+
+categories:
+  - Unity
+tags:
+  - Unity
+  - Game
+  - GooglePlayService
+last_modified_at: 2020-02-04T08:06:00-05:00
+---
+
+
 # GooglePlayService Login
 
 ## KeyTool 시스템 환경 설정
