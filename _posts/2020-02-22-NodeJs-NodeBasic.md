@@ -7,8 +7,7 @@ categories:
 tags:
   - BackEnd
   - NodeJs
-  - Javascript
-  - Node Basic
+  - NodeBasic
 last_modified_at: 2020-02-22T08:06:00-05:00
 ---
 ## URL 모듈
