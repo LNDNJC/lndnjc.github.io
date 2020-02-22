@@ -8,7 +8,7 @@ tags:
   - BackEnd
   - NodeJs
   - NodeBasic
-last_modified_at: 2020-02-22T08:06:00-05:00
+last_modified_at: 2020-02-20T08:06:00-05:00
 ---
 ## URL 모듈
 > 주소 문자열을 객체로 만들어 문자열 안에 있던 각각의 정보를 나누어 그 객체의 속성에 보관.
