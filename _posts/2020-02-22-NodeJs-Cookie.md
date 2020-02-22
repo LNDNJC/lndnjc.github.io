@@ -8,7 +8,7 @@ tags:
   - BackEnd
   - NodeJs
   - Cookie
-last_modified_at: 2020-02-23T10:06:00-05:00
+last_modified_at: 2020-02-22T10:06:00-05:00
 ---
 
 사용자가 로그인 상태인지 아닌지 확인하고 싶을 때 쿠키나 세션 사용.
