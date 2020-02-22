@@ -87,11 +87,10 @@ var router = express.Router();
 
 router.route('process/users/:id').get('function(req,res) {
 
-var paramId = req.params.id; console.log('/process/usersdhk 토큰 %s를 사용해 처리함', 
+var paramId = req.params.id; console.log('/process/usersdhk 토큰 %s를 사용해 처리함', paramId); 
 
-paramId); res.writeHead('200', {'Content-Type':'text/html;charset=utf8'}); res.write('<h1> Express 서버에서 응답한 결과입니다.</h1>'); res.write('<div><p>Param Id:'+paramId+'</p>
-
-</div>'); res.end();
+res.writeHead('200', {'Content-Type':'text/html;charset=utf8'}); res.write('<h1> Express 서버에서 응답한 결과입니다.</h1>'); res.write('<div><p>Param Id:'+paramId+'</p></div>'); 
+res.end();
 
 });
 

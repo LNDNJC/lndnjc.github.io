@@ -10,13 +10,14 @@ tags:
   - Cookie
 last_modified_at: 2020-02-23T10:06:00-05:00
 ---
+
 사용자가 로그인 상태인지 아닌지 확인하고 싶을 때 쿠키나 세션 사용.
 
 쿠키는 클라이언트 웹 브라우저의 정보,
 
 세션은 웹 서버에 저장되는 정보.
 
-## **> 쿠키 처리하기**
+## **쿠키 처리하기**
 
     
     var cookieParser = require('cookie-parser');
@@ -33,16 +34,16 @@ last_modified_at: 2020-02-23T10:06:00-05:00
     });
     app.use('/', router);
 
-## >> 설치
+### 설치
 
     
     npm install cookie-parser --save
 
-## **> 세션처리하기**
+## **세션처리하기**
 
 로그인하면 세션 생성, 로그아웃하면 세션 삭제 -> 로그인하기 전까지 접근을 제한할 수 있음.
 
-## >> 설치
+### 설치
 
     
     npm install express-session --save
@@ -61,7 +62,7 @@ last_modified_at: 2020-02-23T10:06:00-05:00
     });
     app.use('/', router);
 
-## // login
+## login
 
     
     router.route('/process/login').pose( function(req, res)
