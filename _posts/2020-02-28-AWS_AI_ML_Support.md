@@ -1,6 +1,5 @@
-
 ---
-title:  "ONLINE AI/ML SUPPORT"
+title:  "ONLINE AI ML SUPPORT"
 excerpt: "BackEnd"
 
 categories:
@@ -63,4 +62,4 @@ AWS 에서는 역삼에 위치한 본사에서 다양한 세미나 및 웨비�
 
 ## CERTIFICATE OF ATTENDANCE
 
-![AWS/AWS_CERTIFICATE.png](AWS/AWS_CERTIFICATE.png)
+![ex_screenshot](/img/AWS_CERTIFICATE-unity.png)
