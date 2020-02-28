@@ -14,9 +14,11 @@ last_modified_at: 2020-02-28T10:06:00-05:00
 AWS AI/ML 관련 컨퍼런스에 참여했더니 아래와 같은 메일이 봤네요...
 수료증도 왔습니다.^^
 
-Innovate 행사에 관심가져주셔서 감사드리며 다시보기 링크와 머신러닝 training 링크 전달드립니다. ; [https://aws.amazon.com/ko/training/learning-paths/machine-learning/](https://aws.amazon.com/ko/training/learning-paths/machine-learning/)
+Innovate 행사에 관심가져주셔서 감사드리며 다시보기 링크와 머신러닝 training 링크 전달드립니다.
+[https://aws.amazon.com/ko/training/learning-paths/machine-learning/](https://aws.amazon.com/ko/training/learning-paths/machine-learning/)
 
-**다시보기** [https://onlinexperiences.com/Launch/Event/ShowKey=79531](https://onlinexperiences.com/Launch/Event/ShowKey=79531)
+**다시보기** 
+[https://onlinexperiences.com/Launch/Event/ShowKey=79531](https://onlinexperiences.com/Launch/Event/ShowKey=79531)
 
 **지원 서비스**  
 
@@ -36,7 +38,8 @@ AWS 사용을 검토하시는 경우 별도 비용 없이 제공드리는 서�
 
 **교육 채널**   
 
-1. **무료 교육 일정** : [https://aws.amazon.com/ko/about-aws/events/](https://aws.amazon.com/ko/about-aws/events/)
+1. **무료 교육 일정**
+[https://aws.amazon.com/ko/about-aws/events/](https://aws.amazon.com/ko/about-aws/events/)
 
 AWS 에서는 역삼에 위치한 본사에서 다양한 세미나 및 웨비나를 진행하고 있습니다. 아래 링크에 AWS 학습에 도움이 될 만한 이벤트 일정이 정리 되어있으니 관심있는 행사에 신청해보시고 서비스 학습에 활용해보시기 바랍니다.
 
@@ -46,19 +49,24 @@ AWS 에서는 역삼에 위치한 본사에서 다양한 세미나 및 웨비�
 
 - 150개 이상의 AWS 무료 디지털 교육 과정은 자신의 속도에 맞춰 AWS 기본 사항을 배울 수 있도록 구성되어 있습니다.
 
-- 디지털 교육 탐색하기 : [https://www.aws.training/training/?src=courses](https://www.aws.training/training/?src=courses)
+- 디지털 교육 탐색하기
+[https://www.aws.training/training/?src=courses](https://www.aws.training/training/?src=courses)
 
-3. **AWS 교육 및 자격증 소개** : [https://aws.amazon.com/ko/training/?nc2=h_l2_tr](https://aws.amazon.com/ko/training/?nc2=h_l2_tr)
+3. **AWS 교육 및 자격증 소개**
+[https://aws.amazon.com/ko/training/?nc2=h_l2_tr](https://aws.amazon.com/ko/training/?nc2=h_l2_tr)
 
 - AWS 유/무료 교육 과정과 자격증 취득에 관한 정보를 확인하실 수 있습니다.
 
 4. **기타 유용한 링크**
 
-- AWS 한국블로그: [https://aws.amazon.com/ko/blogs/korea/](https://aws.amazon.com/ko/blogs/korea/)
+- AWS 한국블로그
+[https://aws.amazon.com/ko/blogs/korea/](https://aws.amazon.com/ko/blogs/korea/)
 
-- Slideshare: [http://www.slideshare.net/awskorea](http://www.slideshare.net/awskorea)
+- Slideshare
+[http://www.slideshare.net/awskorea](http://www.slideshare.net/awskorea)
 
-- Youtube: [https://www.youtube.com/user/AWSKorea](https://www.youtube.com/user/AWSKorea)
+- Youtube
+[https://www.youtube.com/user/AWSKorea](https://www.youtube.com/user/AWSKorea)
 
 ## CERTIFICATE OF ATTENDANCE
 
