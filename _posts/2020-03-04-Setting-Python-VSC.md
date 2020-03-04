@@ -23,11 +23,15 @@ last_modified_at: 2020-03-04T10:06:00-05:00
 - Run Test code - **command + shift + D**
 
     #!/usr/local/bin/python3
+
     # -*- coding: utf-8 -*-
      
     print("Start, Python!")
+    
     a= "Hello, Python!"
+    
     print(a)
+    
     
     
 
@@ -37,10 +41,12 @@ last_modified_at: 2020-03-04T10:06:00-05:00
 - task.json is Created
 
     // task.json
-    
+
     {
+
         // See https://go.microsoft.com/fwlink/?LinkId=733558
         // for the documentation about the tasks.json format
+
         "version":"2.0.0",
 
         "command":"python3",
