@@ -22,16 +22,16 @@ last_modified_at: 2020-03-04T10:06:00-05:00
 - Restart VSCode!
 - Run Test code - **command + shift + D**
 
-    #!/usr/local/bin/python3
+        #!/usr/local/bin/python3
 
-    # -*- coding: utf-8 -*-
-     
-    print("Start, Python!")
-    
-    a= "Hello, Python!"
-    
-    print(a)
-    
+        # -*- coding: utf-8 -*-
+        
+        print("Start, Python!")
+        
+        a= "Hello, Python!"
+        
+        print(a)
+
     
     
 
@@ -42,30 +42,30 @@ last_modified_at: 2020-03-04T10:06:00-05:00
 
     // task.json
 
-    {
+        {
 
-        // See https://go.microsoft.com/fwlink/?LinkId=733558
-        // for the documentation about the tasks.json format
+            // See https://go.microsoft.com/fwlink/?LinkId=733558
+            // for the documentation about the tasks.json format
 
-        "version":"2.0.0",
+            "version":"2.0.0",
 
-        "command":"python3",
+            "command":"python3",
 
-        "args": ["${file}"],
+            "args": ["${file}"],
 
-        "options": {
+            "options": {
 
-            "env": {
+                "env": {
 
-                "PYTHONIOENCODING":"UTF-8"
+                    "PYTHONIOENCODING":"UTF-8"
 
-            }
+                }
 
-        },
+            },
 
-        "problemMatchers": []
+            "problemMatchers": []
 
     
-    }
+        }
 
 - **command+shift+B**
