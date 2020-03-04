@@ -11,11 +11,11 @@ tags:
 last_modified_at: 2020-03-04T10:06:00-05:00
 ---
 
-1. Install Visual Studio Code 
+1.Install Visual Studio Code 
 
 [Download Visual Studio Code - Mac, Linux, Windows](https://code.visualstudio.com/Download)
 
-2. ext install - python3
+2.ext install - python3
 
 - **command + shift +P** → type "ext install" → Extentions:Install
 - Seletet Python and Install
@@ -35,7 +35,7 @@ last_modified_at: 2020-03-04T10:06:00-05:00
     
     
 
-3. Run by Using Task Runner
+3.Run by Using Task Runner
 
 - **command + shift + P** → type "**task run**" → Select "**Tasks:Configure Task Runner**" → Select "**Other**"
 - task.json is Created
