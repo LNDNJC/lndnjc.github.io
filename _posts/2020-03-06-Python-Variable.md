@@ -7,9 +7,7 @@ categories:
 tags:
   - Python
   - Variable
-  - if
-  - else
-  for
+  - if else
 last_modified_at: 2020-03-06T10:06:00-05:00
 ---
 
