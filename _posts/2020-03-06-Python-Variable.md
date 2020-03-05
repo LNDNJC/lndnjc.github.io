@@ -63,22 +63,22 @@ True - False인 경우를 제외한 값이 할당된 경우
 
     if a and 10/a → if a =0 , Not Compile Error : 단축평가 적용.
 
-while<조건문>:
+    while<조건문>:
 
 
-<구문>
+    <구문>
 
 
-for <아이템 I> in <시퀀스 객체 S>
+    for <아이템 I> in <시퀀스 객체 S>
 
 
-else :
+    else :
 
 
-<구문>
+    <구문>
 
 
-for 구문이 정상적으로 수행되어 else: 구문이 실행됨.
+    for 구문이 정상적으로 수행되어 else: 구문이 실행됨.
 
 
 # 리스트 내장
