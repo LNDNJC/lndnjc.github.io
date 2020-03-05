@@ -1,5 +1,5 @@
 ---
-title:  "변수 & 제어문"
+title:  "Variable"
 excerpt: "Python"
 
 categories:
